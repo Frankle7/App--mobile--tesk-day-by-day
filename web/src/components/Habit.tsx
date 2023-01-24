@@ -15,3 +15,4 @@ export function Habit(props: HabitProps) {
             {props.completed} </div>
     )
 }
+    
